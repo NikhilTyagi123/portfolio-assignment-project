@@ -1,0 +1,135 @@
+div div.left-part{
+  height: 1070pt;
+  width:45%;
+  background-color: #767bde;
+}
+div div.left-part #name{
+  margin:0 5% 0 30%;
+  padding-top:40px;
+  font-size: 50px;
+  color:white;
+}
+div div.left-part #post{
+  margin:0 5% 0 49.4%;
+  color:white;
+}
+div div.left-part hr{
+  width:80pt;
+  height:6pt;
+  background-color:white;
+  margin:20px 5% 0 66.7%;
+}
+div div.left-part label{
+  margin:90pt 5% 2% 18.4%;
+  color:white;
+  font-size: 30px;
+}
+div div.left-part #personal{
+  margin:0 10% 0 31.4%;
+  color:white;
+
+}
+div div.left-part #ac{
+  margin:90pt 5% 2% 43.4%;
+  color:white;
+  font-size: 30px;
+}
+div div.left-part #achievement{
+  margin:0 11% 0 35.4%;
+  color:white;
+
+}
+div div.left-part #con{
+  margin:90pt 5% 2% 36%;
+  color:white;
+  font-size: 30px;
+}
+div div.left-part div#details p{
+  margin:0 11% 0 47.4%;
+  color:white;
+
+}
+div div.left-part div.tech label{
+  margin:90pt 5% 2% 30%;
+  font-size: 30px;
+  color:white;
+
+}
+div div.left-part div.tech p#tach{
+  margin:1.2% 5% 2% 30%;
+  font-size: 13px;
+  color:white;
+
+}
+div div.right-part div.hobbies{
+  margin:0.1% 5% 2% 2%;
+  font-size: 13px;
+}
+div div.right-part{
+float: right;
+height: 1070pt;
+width:55%;
+background-color:lightblue;
+margin-top:-113%;
+}
+
+div div.right-part label{
+margin:40pt 5% 2% 7%;
+color:darkblue;
+font-size: 30px;
+}
+div div.right-part #heading{
+margin:0.3% 5% 2% 7.6%;
+color:darkblue;
+font-size: 14px;
+font-weight: bold;
+}
+div div.right-part #career{
+margin:0.1% 5% 2% 7.6%;
+color:black;
+font-size: 13px;
+}
+div div.right-part #work{
+margin:-0.8% 5% 2% 7.6%;
+font-size: 13px;
+}
+div div.right-part #p{
+margin:-0.8% 5% 2% 2%;
+font-size: 13px;
+}
+div div.right-part #t{
+margin:0% 5% 2% 7.5%;
+font-size: 13px;
+
+}
+div div.right-part #r{
+margin:0% 5% 2% 7.5%;
+font-size: 13px;
+
+}
+div div.right-part #r ul.list-items{
+margin:0% 5% 2% -6%;
+font-size: 13px;
+}
+
+div div.right-part div#table table.table-striped{
+
+height:50pt;
+width:170pt;
+margin:0% 5% 2% 7.5%;
+border: 2px solid black;
+}
+div div.right-part div#table p#academic{
+margin:7.4% 5% 2% 7.6%;
+font-size: 30px;
+font-weight: bold;
+color:darkblue;
+}
+div div.right-part div.declaration p#dec{
+margin:0.8% 5% 2% 7.6%;
+font-size: 13px;
+}
+div div.right-part div.declaration p#dece{
+margin:0.8% 5% 2% 60%;
+font-size: 13px;
+}
